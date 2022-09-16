@@ -135,3 +135,8 @@ You can either add game logos as an icon or you can use Extra Metadata Loader ad
 
 ## I want to request a feature or report a bug
 Please raise **[here](https://github.com/TheKersalMassive/ReskinXBOXSX/issues)**
+
+## Where can I get the XBOX Classic or XBOX 360 Square Covers?
+I create, maintain and upload them **[here](https://www.steamgriddb.com/collection/4227/grids)**
+
+![Grids](https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/SteamGrids-01.jpg)
