@@ -1,4 +1,4 @@
-# ReskinXBOXSX
+# Reskin XBOXSX
 XBOX Series X Reskin for Playnite V9+
 
 ![Main](https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/Screenshot-01.jpg)
