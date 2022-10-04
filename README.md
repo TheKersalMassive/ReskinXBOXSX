@@ -1,5 +1,5 @@
 # Reskin XBOXSX
-XBOX Series X Reskin for Playnite V9+
+XBOX Series X Reskin for Playnite V10
 
 ![Main](https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/Screenshot-01.jpg)
 
