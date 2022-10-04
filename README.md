@@ -94,6 +94,7 @@ XCloud
 To open the theme installation folder go to:
 *Add-ons (F9) > Installed > Themes Fullscreen > Reskin PS5 > Installation Folder*
 
+
 ## I don't see an icon or label that I want?
 You have two options:
 
@@ -129,12 +130,17 @@ You can choose from the below colours as tags:
 No as I don't use any extensions, plugins or add-ons. However, you can always mod the theme if you prefer.
 
 
+## Why is there is no background music on this theme?
+That's because there isn't any on the XBOX Series X|S UI
+
+
 ## I want to show game logos in the Game Details view
 You can either add game logos as an icon or you can use Extra Metadata Loader addon **[here](https://playnite.link/forum/thread-814.html)**
 
 
 ## I want to request a feature or report a bug
 Please raise **[here](https://github.com/TheKersalMassive/ReskinXBOXSX/issues)**
+
 
 ## Where can I get the XBOX Classic or XBOX 360 Square Covers?
 I create, maintain and upload them **[here](https://www.steamgriddb.com/collection/4227/grids)**
