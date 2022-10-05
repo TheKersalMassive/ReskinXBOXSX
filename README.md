@@ -92,8 +92,9 @@ XCloud
 ```
 
 To open the theme installation folder go to:
-*Add-ons (F9) > Installed > Themes Fullscreen > Reskin PS5 > Installation Folder*
+*Add-ons (F9) > Installed > Themes Fullscreen > Reskin XBOXSX > Installation Folder*
 
+Note: Source labels will not appear if you have activated Game Titles under "Settings > Visuals > Show Game Titles" 
 
 ## I don't see an icon or label that I want?
 You have two options:
