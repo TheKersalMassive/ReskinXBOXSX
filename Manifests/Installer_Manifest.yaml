@@ -7,3 +7,11 @@ Packages:
     Changelog:
       - Initial release for Playnite
       - Please read the FAQ before raising any issues on GitHub or Discord
+  - Version: 1.1
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-08
+    PackageUrl: https://github.com/TheKersalMassive/ReskinXBOXSX/releases/download/v1.1/ReXBOXSX_1_1.pthm
+    Changelog:
+      - Important! Custom colour borders config changed & now must include # before Category and Tag
+      - Help & Game Menus updated
+      - Extra Meta Data Loader logos no longer have a fixed size and now resize properly as per the extension settings
